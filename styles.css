@@ -1,0 +1,21 @@
+body{
+    background-color: rgba(128, 128, 128, 0.123);
+}
+h1{
+    color: black;
+    text-align: center;
+}
+img{
+  width: 180px; height: 180px;
+  border-radius: 50%;
+  display: block;
+  margin: 25px auto;
+  border: 5px solid;
+  object-fit: cover;
+}
+p{
+    color: black;
+    text-decoration:none ;
+}
+
+
